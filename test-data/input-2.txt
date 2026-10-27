@@ -1,0 +1,2 @@
+GT4500,10,1.0,10,0   # primary always fails, secondary always works
+TORPEDO,SINGLE       # primary fails, must NOT fall back to secondary
